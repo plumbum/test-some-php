@@ -1,0 +1,7 @@
+{
+    "require": {
+        "j4mie/idiorm": "*",
+        "form-manager/bootstrap": "v1.0.1",
+        "form-manager/form-manager": "v3.9.4"
+    }
+}
